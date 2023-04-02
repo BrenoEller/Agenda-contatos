@@ -2,9 +2,9 @@
 
 # Agenda de contatos
 
-Meu primeiro projeto fazendo conexão com o banco de dados utilizando MySQL e PDO para fazer a conexão 
+### Meu primeiro projeto fazendo conexão com o banco de dados utilizando MySQL e PDO para fazer a conexão 
 
-Ferramentas utilizadas :
-· PHP
-· MySQL
-· Bootstrap
+Ferramentas utilizadas : <br>
+· PHP <br>
+· MySQL <br>
+· Bootstrap <br>
